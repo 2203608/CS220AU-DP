@@ -9,4 +9,6 @@
 - 1/11/2023 Started and went through mutliple websites and other types os sorces of information to help come up with an idea for what my resrach question is going to end up being
 - 5/11/2023 Making a small presentation for class so that i can walk through what the resrach question is going to be and walk through as to why the reason that i have chosen my spefcic Existential Risks
 - 10/11/2023 We had presentations in class so was able to see how peer's projects are coming alond and was able to help and give feedback to them. Also did my presentaion and was ablt to talk about my project and being able to get some peer feedback for it 
+
 - ## Tasks
+- 21/10/2023 need to look through the rest of the vidoes of digital identties so that we can look through and get an understanding of it 
