@@ -6,5 +6,6 @@
 - 23/10/2023 starting to do a literatrue review. Also had GIThub account ready and trying to figure out how to use
 - 25/10/2023 Had a quick look at what Existential Risks are to gain a slight idea of what there are and what they mean
 - 27/10/2023 In class staretd to look through all the differnet locations and websites that can help me with finding resaerch question
-- 1/11/2023 Started and went through mutliple websites and other types os sorces of information to help come up with an idea for what my resrach question is going to end up being 
+- 1/11/2023 Started and went through mutliple websites and other types os sorces of information to help come up with an idea for what my resrach question is going to end up being
+- 5/11/2023 Making a small presentation for class so that i can walk through what the resrach question is going to be and walk through as to why the reason that i have chosen my spefcic Existential Risks 
 - ## Tasks
