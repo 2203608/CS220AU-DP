@@ -15,4 +15,4 @@
 - 24/10/2023 need to look through and fisnish the literatrue review so that i can start to get my reserach question done
 - 25/10/2023 Dont really understand what Existential Risks are and how they relate to navigating the digital world
 - 28/10/2023 go through and do get the literatrue done so can start to have a good idea fo what the research quetsion is going to be aand then get that parrt of it finished
-- 
+- 2/11/2023 need to start the presentation so that we can do it for the class and get peer feedback for it
