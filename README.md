@@ -12,3 +12,5 @@
 
 - ## Tasks
 - 21/10/2023 need to look through the rest of the vidoes of digital identties so that we can look through and get an understanding of it 
+- 24/10/2023 need to look through and fisnish the literatrue review so that i can get my rserach question done
+- 25/10/2023 Dont really understand what Existential Risks are and how they relate to navigating the digital world
