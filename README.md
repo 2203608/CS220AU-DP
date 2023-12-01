@@ -14,4 +14,5 @@
 - 21/10/2023 need to look through the rest of the vidoes of digital identties so that we can look through and get an understanding of it 
 - 24/10/2023 need to look through and fisnish the literatrue review so that i can start to get my reserach question done
 - 25/10/2023 Dont really understand what Existential Risks are and how they relate to navigating the digital world
-- 28/10/2023 go through and do get the literatrue done so can start to have a good idea fo what the research quetsion is going to be aand then get that parrt of it finished 
+- 28/10/2023 go through and do get the literatrue done so can start to have a good idea fo what the research quetsion is going to be aand then get that parrt of it finished
+- 
