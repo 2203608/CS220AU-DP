@@ -2,6 +2,8 @@
 - ## Overview
 - ## Log
 - 13/10/2023 introduction to class and what the overall moduel is and what we are going to be doing. Also looking through th emodule outline to have a better understanding of everything 
-- 20/10/2023 Looking through the digital identities video. Looking through a differnet locations as to get a better understading of how they work and the differnces between resident and visitor.
-- 23/10/2023 starting to do a lieatrue review.
+- 20/10/2023 Looking through the digital identities video. Looking through a differnet locations as to get a better understading of how they work and the differnces between resident and visitor
+- 23/10/2023 starting to do a literatrue review. Also had GIThub account ready and trying to figure out how to use
+- 27/10/2023 In class staretd to look through all the differnet locations and websites that can help me iwth finding resaerch question
+- 
 - ## Tasks
