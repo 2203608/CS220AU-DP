@@ -35,3 +35,5 @@ Gorman talks about and shows us some more dangers that AI has and the way that t
 
 # Conclusion 
 In conclusion I think that it is safe for us to see that there are dangers of AI everywhere and not only that but it can effect fields like the medical one by the way that it is used and by how easily easily accessible it is to everyone but not only that it is also the fact that due t the fact that anyone is able to gain access to it then it i possible that people with bad intentions then are able to care harm to others, another aspect is the fact that it is able to just roam in a way and learn about people and then adapt to way that people work and live their lives with no one behind it trying to control it is something that causes harm and could end up causing more problems fr humans in the future, but finally the fact that it seems like the risks are something that aren’t as looked into as the benefits that it can gives us makes the risks of ai more dangers but at the same time more unknown as we don’t know what it is capable of.
+
+# References used:
