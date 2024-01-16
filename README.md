@@ -10,9 +10,9 @@
 - 5/11/2023 Making a small presentation for class so that i can walk through what the resrach question is going to be and walk through as to why the reason that i have chosen my spefcic Existential Risks
 - 10/11/2023 We had presentations in class so was able to see how peer's projects are coming alond and was able to help and give feedback to them. Also did my presentaion and was ablt to talk about my project and being able to get some peer feedback for it 
 - 12/12/23 have started to write the words and information that i'm going tk be using for the portfolio
-1/1/24 carried on writing everything so that aspect is ready also started to look for a few photos so that i can add some onto it.
-13/1/24 started to piece everything togather so that it is ready for the peer review
-16/1/24 doing the peer review today
+- 1/1/24 carried on writing everything so that aspect is ready also started to look for a few photos so that i can add some onto it.
+- 13/1/24 started to piece everything togather so that it is ready for the peer review
+- 16/1/24 doing the peer review today
 
 - ## Tasks
 - 21/10/2023 need to look through the rest of the vidoes of digital identties so that we can look through and get an understanding of it 
