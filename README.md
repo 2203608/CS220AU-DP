@@ -9,6 +9,10 @@
 - 1/11/2023 Started and went through mutliple websites and other types os sorces of information to help come up with an idea for what my resrach question is going to end up being
 - 5/11/2023 Making a small presentation for class so that i can walk through what the resrach question is going to be and walk through as to why the reason that i have chosen my spefcic Existential Risks
 - 10/11/2023 We had presentations in class so was able to see how peer's projects are coming alond and was able to help and give feedback to them. Also did my presentaion and was ablt to talk about my project and being able to get some peer feedback for it 
+- 12/12/23 have started to write the words and information that i'm going tk be using for the portfolio
+1/1/24 carried on writing everything so that aspect is ready also started to look for a few photos so that i can add some onto it.
+13/1/24 started to piece everything togather so that it is ready for the peer review
+16/1/24 doing the peer review today
 
 - ## Tasks
 - 21/10/2023 need to look through the rest of the vidoes of digital identties so that we can look through and get an understanding of it 
@@ -16,7 +20,9 @@
 - 25/10/2023 Dont really understand what Existential Risks are and how they relate to navigating the digital world
 - 28/10/2023 go through and do get the literatrue done so can start to have a good idea fo what the research quetsion is going to be aand then get that parrt of it finished
 - 2/11/2023 need to start the presentation so that we can do it for the class and get peer feedback for it
--
+- 12/12/23 start to right everyhting so that i have everyhting written and ready to put onto the webiste.
+- 1/1/24 get everyhting ready so that i can do the peer review and have it ready
+- 13/1/24 get everyhthing ready again for the peer review 
 # What are the existential risks of AI
 This website has been created in an attempt for me to try and answer the question ”What are the dangers and existential risks that AI can have on humans”. Through this I will be looking at multiple examples and the ways that it can have an dangerous effect on the way that people in the modern times live their lives being through the way that they go through social media and the way the they consume the media that they are looking at or just in the way that they intact with it as a whole and how it can have the negative effect and impact their lives. While also looking through the different ways that you are able to see that ai might try and enter our lives a lot more and have an overall bigger impact on our lives than a lot of people might be able to realise as we look and find out that it Is something that isn’t as researched and looked into compared to he positive effects hat it does have on our lives as the negatives are something that seems to be less researched and looked into as the positives that it brings us.
 
