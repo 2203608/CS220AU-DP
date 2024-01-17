@@ -27,4 +27,7 @@ In conclusion I think that it is safe for us to see that there are dangers of AI
 ## References used:
 Bozic V.,(2023)"The dangers of Artificial intelligence". Accessed on:https://www.researchgate.net/profile/Velibor-Bozic-2/publication/370659879_THE_DANGERS_OF_ARTIFICIAL_INTELLIGENCE/links/645cc8def43b8a29ba44c49f/THE-DANGERS-OF-ARTIFICIAL-INTELLIGENCE.pdf
 Anandkumar,A., Chu,C,L., Fisherman,K,E., Shin,C,H(2020)"The Potential Dangers of Artificial Intelligence for Radiology and Radiologists" Accessed on:https://www.jacr.org/article/S1546-1440(20)30403-8/fulltext
+Armstrong,S., Gorman, R.(2022)"The dangers in algorithms learning humans' values and irrationalities" Accssed on:https://arxiv.org/pdf/2202.13985.pdf
+Hilton, B,(2023) "Preventing an AI-related catastrophe" Accessed on:https://80000hours.org/problem-profiles/artificial-intelligence/
+Nucci,D,E.,(2018)"Should we be afraid of medical AI" Accessed on:https://jme.bmj.com/content/45/8/556
 
