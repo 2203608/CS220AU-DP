@@ -49,10 +49,10 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |  o  |     |     |
+| 1.1       |     |     |    |  •   |     |
 | 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
-| 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 2.1       |     |  •   |   |     |     |
+| 2.2       |     |     |  •  |    |     |
+| 3.1       |     |    |     |   •  |     |
 
 Feedback given by: 2317769 17/1/24. 2203608 was able to introduce what was going to be talked about with reference towards the question. What I liked in particular was the ability to end his sentences with link to the thesis statement. 2203608 was able to provide multiple examples and was able to explain them with link to the question. 2203608 was able to provide real life examples, acknowledge the problems behind them and offer solutions. There was various knowledge presented, imagery that links to what is being spoken about, statistics, evaluation of pros and cons and was able to link the conclusion to the thesis statement. 2203608 was able to show where the information came from by referencing at the end too
