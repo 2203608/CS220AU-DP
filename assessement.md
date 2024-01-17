@@ -40,9 +40,9 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 |-----------|:---:|:---:|:---:|:---:|:---:|
 | 1.1       |     |     |   •  |     |     |
 | 1.2       |     |     |     |  • |     |
-| 2.1       |     |     |  o  |     |     |
-| 2.2       |     |     |     |  o  |     |
-| 3.1       |     |    |   •  |     |     |
+| 2.1       |     |     |  •  |     |     |
+| 2.2       |     |     |   •  |    |     |
+| 3.1       |     |    |     |  •   |     |
 
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
