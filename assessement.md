@@ -34,7 +34,7 @@ The following rubric provides a detailed breakdown of the assessment criteria fo
 
 
 ## Self-assessment
-Using the marking rubric, I've assessed my own progress: <!-- move the symbols in the table below -->
+Using the marking rubric, I've assessed my own progress: I think that the website I created shows well that I have a good understanding of the information that I have collected and think that I have shown that I have answered my question well and shown that I am capable of it and have done it well. I think the way that I have designed my website is really well due to the way that I have laid out my whole design for the website has been really good but it also look really clean as it is simple to find all of the information about everything but I also think that the way ti have laid I out with the photos and the text makes it all look really professional. I think that the amount of time the I have put into the website looks really good for the way that it has been completed. The main thing that I think I could have used more improvement on was interacting with my peers due to the fact that I didn’t interact as much with everyone as I had hoped which I think might of been able to help me a bit more with the overall design or different methods of collecting research. Overall I think that the project went really well for me I think that the final product that I ahem made is of high quality and that I have shown an overall good understanding of the whole project.
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
